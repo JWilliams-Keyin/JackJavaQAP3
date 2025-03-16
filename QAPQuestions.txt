@@ -1,0 +1,17 @@
+Answers to questions posed in QAP document
+
+1. How many hours did it take you to complete this assessment?
+
+It took me roughly 12 hours to complete
+
+2. What online resources you have used?
+
+Just recorded lectures
+
+3/4. Did you need to ask questions to any of your friends / instructors?
+
+Nope
+
+5. Rate the difficulty from your perspective
+
+Out of 10, I would probably give this assignment a 6. The first three problems were relatively easy, but the last one seemed a little more tricky just because I didn't fully understand how interfacing worked yet. Once I looked back at the recordings a second time, everything was clear.
